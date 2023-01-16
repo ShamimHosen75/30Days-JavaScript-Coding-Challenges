@@ -1,6 +1,6 @@
 // Problem :Creates a function that takes two numbers as arguments and return their sum.
 function addition (a, b) {
-  //Write Your solution Here
+  //Write Your Solution Here
 }
 console.log(addition (15, 25)); //40
 console.log(addition (30, 20)); //50
