@@ -13,11 +13,9 @@ function bitwiseXOR(n1, n2) {
   //Write Your solution Here
 };
 
-
 console.log(bitwiseAND(10, 20)); // 0
 console.log(bitwiseOR(10, 20)); // 30
 console.log(bitwiseXOR(10, 20)); // 30
-
 
 
 // Solution is here
