@@ -3,6 +3,7 @@
 function lessThan100(a, b){
   //Write Your solution Here
 };
+
 console.log(lessThan100(10, 20)); // true
 console.log(lessThan100(65, 75)); // false
 console.log(lessThan100(25, 50)); // true
